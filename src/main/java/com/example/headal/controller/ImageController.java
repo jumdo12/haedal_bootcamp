@@ -2,6 +2,7 @@ package com.example.headal.controller;
 
 import com.example.headal.domain.User;
 import com.example.headal.service.AuthService;
+import com.example.headal.service.ImageService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

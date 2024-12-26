@@ -3,7 +3,6 @@ package com.example.headal.controller;
 //import haedal.Bootcamp2024_2.dto.request.UserUpdateRequestDto;
 //import haedal.Bootcamp2024_2.dto.response.UserDetailResponseDto;
 import com.example.headal.domain.User;
-import com.example.headal.dto.UserRegistrationRequestDto;
 import com.example.headal.dto.UserSimpleResponseDto;
 import com.example.headal.dto.request.UserDetailResponseDto;
 import com.example.headal.dto.request.UserUpdateRequestDto;
@@ -14,7 +13,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 
